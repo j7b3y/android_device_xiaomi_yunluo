@@ -7,6 +7,7 @@
 DEVICE_PATH := device/xiaomi/yunluo
 KERNEL_PATH := device/xiaomi/yunluo-kernel
 CONFIGS_PATH := $(DEVICE_PATH)/configs
+BUILD_BROKEN_PREBUILT_ELF_FILES := true
 
 # Architecture
 TARGET_ARCH := arm64

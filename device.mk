@@ -212,8 +212,6 @@ PRODUCT_COPY_FILES += \
 
 # Dummy mtkperf lib
 PRODUCT_PACKAGES += \
-    libmtkperf_client_vendor \
-    libmtkperf_client \
     libpowerhalwrap_vendor
 
 PRODUCT_PACKAGES += \
